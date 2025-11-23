@@ -1,9 +1,9 @@
 ---
-title: "Rational Agency"
+title: "Cosmogony"
 status: draft
 ---
 
-# Rational Agency
+# Cosmogony
 
 To be an agent is to be able to:
 - Perceive,

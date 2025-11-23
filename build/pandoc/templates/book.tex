@@ -1,0 +1,73 @@
+\documentclass[12pt]{book}
+
+% --- Packages ---
+\usepackage[margin=1in]{geometry}  % Nice margins
+\usepackage{graphicx}              % For images (\includegraphics)
+\usepackage{lmodern}               % Better fonts
+\usepackage{setspace}              % Line spacing
+\usepackage{fancyhdr}              % Headers/footers
+\usepackage{titlesec}              % Chapter heading formatting
+\usepackage{hyperref}              % Clickable links (TOC, refs, etc.)
+
+% --- Line spacing ---
+\onehalfspacing
+
+% --- Header / footer setup ---
+\pagestyle{fancy}
+\fancyhf{} % clear all fields
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[LO]{\nouppercase{\rightmark}}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+
+% --- Chapter formatting ---
+\titleformat{\chapter}[display]
+  {\Huge\bfseries}
+  {\chaptername\ \thechapter}
+  {0pt}
+  {\vspace{20pt}}
+  [\vspace{20pt}\titlerule]
+
+% --- Paragraph formatting ---
+\setlength{\parskip}{0.75em}
+\setlength{\parindent}{0pt}
+
+% --- Pandoc helper commands ---
+
+% Tight lists (Pandoc uses this)
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Newer Pandoc sometimes wraps content in \pandocbounded{...}
+\providecommand{\pandocbounded}[1]{#1}
+
+% --- Metadata from Pandoc ---
+
+$if(title)$
+\title{$title$}
+$endif$
+
+$if(author)$
+\author{$for(author)$$author$$sep$ and $endfor$}
+$endif$
+
+\date{}
+
+% --- Document body ---
+
+\begin{document}
+
+% NOTE: We intentionally do NOT call \maketitle here.
+% Cover and title pages are controlled entirely by the first
+% Markdown files (cover.md, title-page.md, contents.md).
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+$body$
+
+$for(include-after)$
+$include-after$
+$endfor$
+
+\end{document}

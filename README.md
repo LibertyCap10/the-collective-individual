@@ -7,14 +7,14 @@
 
 **The Collective Individual** is a long-form philosophical work exploring:
 
-- Rational agency  
-- Context → Identity → Ethic  
-- Frames and games  
-- The Meta Frame and Meta Game  
-- The structure of selection  
-- The relationship between self, environment, and intention  
+- Rational Agency (i.e., Proportionality and the Limited Will)
+- Context → Identity → Ethic  (An articulated Contextual Framework shapes Identity and Ethic in tandem )
+- Frames and Games (two sides of the same coin; frame implies game)
+- The Meta Frame and Meta Game (Perfection against the Mundane) 
+- The structure of Selection (authentic[ating] selection is Limited Will as extension of the Universal Will)
+- Self Generation (Individual Self & Universal Self)
 
-Its core question:
+Core Question:
 
 ### **How does a rational agent act with intention such that their own becoming becomes real, elevated, and self-reifying?**
 

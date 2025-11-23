@@ -1,18 +1,23 @@
 ---
 title: "Title Page"
-status: draft
 ---
 
-<div style="text-align: center;">
+\thispagestyle{empty}
 
-![Si, the Jester of Orientation](assets/img/si-cover.png){ width=50% }
+\vspace*{4cm}
 
-# The Collective Individual
+\begin{center}
+{\Huge \textbf{The Collective Individual}\par}
 
-### Frames, Games, and Rational Agency
+\vspace{0.75cm}
 
-**Rhett Melton**
+{\Large Frames, Games, and Rational Agency\par}
 
-</div>
+\vspace{2cm}
+
+{\large Rhett Melton\par}
+\end{center}
+
+\vfill
 
 \newpage
