@@ -1,9 +1,9 @@
 ---
-title: "Primordial Frames"
+title: "Significant Frames"
 status: draft
 ---
 
-# Primordial Frames
+# Significant Frames
 
 Before there are social roles or institutions, there are primordial frames:
 - Self vs. world
@@ -19,7 +19,7 @@ So you can say that there are frames that are built into us at a deep structural
 
 So we are baked into a bottom-up circumstance to some substantial degree.  But this is not our fate.  
 
-It seems possible to apply top-down recognition to the entirety of our Being, and like Siddhartha Goutama, choose to go sit under a tree until we 'figure it out'.  It may be weak at times, but we have a Limited Will which we may poke and prod ourselves with.  And over time, it is possible to Select ourselves into a path that is ever-more governed by our own pre-empting stadards of Selection.  
+It seems possible to apply top-down recognition to the entirety of our Being, and like Siddhartha Goutama, choose to go sit under a tree until we 'figure it out'.  It may be weak at times, but we have a Limited Will which we may poke and prod ourselves with.  And over time, it is possible to Select ourselves into a path that is ever-more governed by our own pre-empting stadards of Selection.  We can go from prodding ourselves, to puppeteering, "becoming a real person" as Pinnochio did.  
 
 Here are some primordial frames: 
 

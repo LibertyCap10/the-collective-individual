@@ -8,7 +8,7 @@ status: draft
 
 > *"Persistence is existence"*
 
-While considering how to parse reality as to tell a Cosmogony - a story of cosmic creation - the first thing that comes to mind is that it's difficult to know where to start. We could do a scientific investigation into the origins of the cosmos and tell the story that way.  We could also sit in an armchair and introspect categorically into the origins of what it must take to have anythin in the first instance.  
+While considering how to parse reality as to tell a Cosmogony - a story of cosmic creation - the first thing that comes to mind is that it's difficult to know where to start. We could do a scientific investigation into the origins of the cosmos and tell the story that way.  We could also sit in an armchair and introspect categorically into the origins of what it must take to have anything in the first instance.  
 
 Taking the latter course, the first thing that comes to mind is that there must be some storehouse that can be mined from over time.  There is no way of getting around it, and it seems we may never know if this is a prodcut of our two-sidedness or of the two-sidedness of Nature itself.  But nonethess, he need a storehouse and a mining of it over time.  
 

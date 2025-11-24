@@ -11,3 +11,7 @@ It is a style of living where:
 - You are conscious of the games you’re in.
 - You can exit or renegotiate them when necessary.
 - You cultivate games that elevate both you and others.
+
+## Acting with Authority
+
+Wrestling with God (the limited wrestling with the infinite)

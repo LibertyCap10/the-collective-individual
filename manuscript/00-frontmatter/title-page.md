@@ -7,11 +7,9 @@ title: "Title Page"
 \vspace*{4cm}
 
 \begin{center}
-{\Huge \textbf{The Collective Individual}\par}
+{\Huge \textbf{The Collective Individual 2}\par}
 
 \vspace{0.75cm}
-
-{\Large Frames, Games, and Rational Agency\par}
 
 \vspace{2cm}
 

@@ -33,7 +33,7 @@ CHAPTERS=(
   "manuscript/01-on-language/index.md"
   "manuscript/02-the-metaphysic/index.md"
   "manuscript/03-frames-and-games/index.md"
-  "manuscript/04-primordial-frames/index.md"
+  "manuscript/04-significant-frames/index.md"
   "manuscript/05-cosmogony/index.md"
   "manuscript/06-the-meta-frame-and-meta-game/index.md"
   "manuscript/07-mastery-of-the-meta-game/index.md"
@@ -61,9 +61,15 @@ pandoc \
   "${CHAPTERS[@]}" \
   --metadata-file="$METADATA_FILE" \
   --resource-path=".:assets:manuscript" \
-  --toc --toc-depth=2 \
+  --toc --toc-depth=1 \
   --epub-cover-image="$COVER_IMAGE" \
   -o "$EPUB_OUTPUT"
 
 echo "✓ EPUB built at $EPUB_OUTPUT"
+
+
+
+
+
+
 echo "Done."

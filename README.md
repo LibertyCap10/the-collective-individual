@@ -135,20 +135,95 @@ The title page includes **Si the Jester**, and the EPUB uses Si as the official 
 
 ---
 
-## 🎨 Editor & Terminal Theme
+## 🔄 Auto-Syncing the Built Manuscript to iCloud  
+### *(macOS launchd integration)*
 
-This repo includes a fully custom, hand-crafted **VS Code theme** inspired by Si’s palette:
+To keep the exported PDF continuously mirrored into iCloud, this repo includes a small automation using **launchd** — macOS’s native event-driven scheduler.  
+Whenever the built manuscript regenerates, the synced copy updates instantly.
 
-- Parchment background  
-- Si blue for structure and types  
-- Gold for keywords & highlights  
-- Soft accents from desert + sky tones  
+---
 
-For installation instructions, see:
+### 📝 1. Create the Sync Script
 
+```bash
+mkdir -p ~/bin
+nano ~/bin/syncfile.sh
 ```
-si-the-jester-theme/
+
+```bash
+#!/bin/bash
+
+WATCHED="/Users/rhettmelton/dev_stuff/the-collective-individual/dist/the-collective-individual.pdf"
+TARGET="/Users/rhettmelton/Library/Mobile Documents/com~apple~CloudDocs/the-collective-individual.pdf"
+
+/bin/cp -f "$WATCHED" "$TARGET"
 ```
+
+```bash
+chmod +x ~/bin/syncfile.sh
+bash ~/bin/syncfile.sh   # (optional test)
+```
+
+---
+
+### ⚙️ 2. Create the Launch Agent
+
+```bash
+mkdir -p ~/Library/LaunchAgents
+nano ~/Library/LaunchAgents/com.user.syncfile.plist
+```
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.syncfile</string>
+
+    <key>WatchPaths</key>
+    <array>
+        <string>/Users/rhettmelton/dev_stuff/the-collective-individual/dist/the-collective-individual.pdf</string>
+    </array>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/rhettmelton/bin/syncfile.sh</string>
+    </array>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/rhettmelton/Library/Logs/com.user.syncfile.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/rhettmelton/Library/Logs/com.user.syncfile.err.log</string>
+</dict>
+</plist>
+```
+
+```bash
+chmod 644 ~/Library/LaunchAgents/com.user.syncfile.plist
+```
+
+---
+
+### 🚀 3. Load and Activate the Agent
+
+```bash
+launchctl bootout gui/$UID ~/Library/LaunchAgents/com.user.syncfile.plist 2>/dev/null
+launchctl bootstrap gui/$UID ~/Library/LaunchAgents/com.user.syncfile.plist
+launchctl list | grep com.user.syncfile
+```
+
+To trigger manually:
+
+```bash
+launchctl kickstart -k gui/$UID/com.user.syncfile
+```
+
+Whenever the manuscript PDF is rebuilt inside `dist/`,  
+the mirrored copy in **iCloud Drive** is updated automatically.
 
 ---
 

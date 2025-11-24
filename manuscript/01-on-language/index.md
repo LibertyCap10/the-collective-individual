@@ -48,5 +48,3 @@ And I think of Carl Jung, who points out shadow integration and how only the tre
 > — **Seneca**, *Reflections*
 
 > *"We project bounds onto the world that the world more or less admits of."*
-
-> *"Persistence is existence"*
