@@ -7,7 +7,7 @@ status: draft
 
 This is a book about rational agency, and how a pluralistic Contextual Framework may lead to the development of a pluralistic individual (who is fundamentally non-parochial).  This book formulates and defends the argument that it is possible to orient (the activity of) a rational agent such that they preserve potentiality / un-limit their Will ever-more-fully (i.e., selection opens rather than closes successive possibility), thereby providing a solution to the Meaning Crisis (by describing/prescribing an authentic/authenticating identity). 
 
-Ironically, it is not the agent who hides in spaces of security that orients optimally, but the agent who voluntarily explores and incorporates that orients optimally. It's the incorporation of the world at the individual level that is the key.  
+Ironically, it is not the agent who hides in spaces of security that orients optimally, but the agent who voluntarily explores and incorporates that orients optimally. It's the (asymptotic) incorporation of the world at the individual level that is the key.  
 
 > *“You want to be invited to play the largest possible number of games.  [..] it's better to win 10% of 100 games than 80% of 10 games.”*  
 > — **Jordan Peterson**
@@ -21,7 +21,9 @@ As limited Beings, we are irrevocably enmeshed-in and bound-to the particular wo
 
 We seem to have this unique ability, as Rational Agents, to label our environment as to categorize (or bucketize) it.  We recognize patterns in the particulars. And that, I believe, is our superpower.  We have the ability to abstract - and not just one layer, but we can move up an 'abstraction chain'.  From Particulars, to Generals, and perhaps to Universals.  
 
-This book is about looking at Reality this way, and about looking at our Rational Agency - each of our Limited Will - as a tool of Selection that has Ontological Reality.  Each time that we Act, we Actualize - we select One over against all other Possible, and in that way we are identical to Nature itself (the Universe writ large) in that we have this sense that we genuinely Author(ize) reality.  Put coloquially, we are each a Child of God, or made in God's image (because God/Nature Selects all that exists and we are piggybacking on this process, imitating it).  And so to Act Authentically is, in my view, this sort of hyper-activity or self-referential bootstraping dynamic where "what I do" gives something "deep within me" resonance/reverence/authenticity/authorization. And I am a product of Nature, I am co-terminuous with Nature.
+This book is about looking at Reality this way, and about looking at our Rational Agency - each of our Limited Will - as a tool of Selection that has Ontological Reality.  Each time that we Act, we Actualize - we select One over against all other Possible, and in that way we are identical to Nature itself (the Universe writ large) in that we have this sense that we genuinely Author(ize) reality.  Put coloquially, we are each a Child of God, or made in God's image (because God/Nature Selects all that exists and we are piggybacking on this process, imitating it).  And so to Act Authentically is, in my view, this sort of hyper-activity or self-referential bootstraping dynamic where "what I do" gives something "deep within me" resonance/reverence/authenticity/authorization/extension. 
+
+Also, as a product of Nature, I am co-terminuous with Nature.
 
 > *“I am a Drop in the Ocean but I am also the Ocean in a Drop.”*  
 > — **Rumi**

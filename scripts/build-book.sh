@@ -69,7 +69,6 @@ echo "✓ EPUB built at $EPUB_OUTPUT"
 
 
 
-
-
+# run 'bash ~/bin/syncfile.sh' in the macos terminal to sync changes to iCloud
 
 echo "Done."
