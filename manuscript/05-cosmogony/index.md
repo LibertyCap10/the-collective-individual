@@ -5,6 +5,7 @@ status: draft
 
 # Cosmogony
 
+> *"That which is, is what it is, in virtue of it not being everything else (that could have been but consequentially is not)."
 
 > *"Persistence is existence"*
 

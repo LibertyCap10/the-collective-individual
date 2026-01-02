@@ -5,6 +5,8 @@ status: draft
 
 ## Preface
 
+Each of us is born into this world within a tangled context, and, in my view, the goal of introspection and philosophy is for each of us to straighten ourselves/ourself out to the best of our ability.  
+
 This is a book about rational agency, and how a pluralistic Contextual Framework may lead to the development of a pluralistic individual (who is fundamentally non-parochial).  This book formulates and defends the argument that it is possible to orient (the activity of) a rational agent such that they preserve potentiality / un-limit their Will ever-more-fully (i.e., selection opens rather than closes successive possibility), thereby providing a solution to the Meaning Crisis (by describing/prescribing an authentic/authenticating identity). 
 
 Ironically, it is not the agent who hides in spaces of security that orients optimally, but the agent who voluntarily explores and incorporates that orients optimally. It's the (asymptotic) incorporation of the world at the individual level that is the key.  
