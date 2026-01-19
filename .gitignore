@@ -1,0 +1,14 @@
+# Build artifacts
+dist/
+*.pdf
+*.epub
+
+# Mac / editor junk
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+
+# Scratch
+_scratch/

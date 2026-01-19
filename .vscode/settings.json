@@ -1,0 +1,8 @@
+{
+  "editor.wordWrap": "on",
+  "editor.rulers": [80],
+  "files.trimTrailingWhitespace": true,
+  "[markdown]": {
+    "editor.wordWrap": "on"
+  }
+}
