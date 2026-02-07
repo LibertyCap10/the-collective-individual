@@ -5,46 +5,104 @@ status: draft
 
 # On Language
 
-Language is the act labeling the world as to create a referential map, or a frame.  
 
-To exist is to exist in a (mundane) world of particulars.  
+Key Concepts:
 
-We label particulars, and labeling is fundamentally categorical in that it is about patterns / buckets.  In-groups and out-groups. 
+* Mind vs No-Mind
+* Continuous vs Discrete Reality
+* Language as frame generation
+* Frame as contrast
+* Reality as Selection (exclusion)
 
-With labeling, therefore, we get abstractions, and this is the key to understanding Rationality and the power of Rational Agency.  
+---
 
-Abstractions allow for the compacting (or the compressing) of information.  Instead of having to play every iteration of a game, you can familiarize yourself with general rules/heuristics and find success more often that not and with relatively little information.  
+> *“Do not be the possessor of fame. Do not be the storehouse of schemes.
+> Do not take over the function of things. Do not be the master of knowledge.
+> Personally realize the infinite to the highest degree and travel in the realm of which there is no sign.
+> Exercise fully what you have received from Nature without any subjective viewpoint.
+> In one word: be absolutely vacuous (hsü).
+>
+> The mind of the perfect man is like a mirror.
+> It does not lean forward or backward in its response to things.
+> It responds to things but conceals nothing of its own.
+> Therefore it is able to deal with things without injury to its reality.”*
+> — **Chuang Tzu**
 
-With this same principle of Abstracting to Navigate, this philosphical framework presumes that it is possible to inform a single lifetime in such a way as to optimize that life in terms of Meaning / existential satisfaction.  Informing a single lifetime in this way is identical to handing someone the Philospher's Stone, which authenticates the beholder.  
+> *“The fish trap exists because of the fish. Once you’ve gotten the fish, you can forget the trap.
+> The rabbit snare exists because of the rabbit. Once you’ve gotten the rabbit, you can forget the snare.
+> Words exist because of meaning. Once you’ve gotten the meaning, you can forget the words.
+> Where can I find a man who has forgotten words so I can talk with him?”*
+> — **Chuang Tzu**
 
-For Rational Agents, we are forever incomplete.  Terenece Mckenna calls our situation "a determined systemed that is yet undetermined".  And in Geothe's play Floust there is a character who says "If I could become an angel I would not, I would stay a man. Because an angel is perfected, but as a man I can always improve". 
+---
 
-So, that is a superpower, actually, to be inexaustable yet to hold the Amulet of Exausting (the philospher's stone / The Metaphysic).  It is to be the infinitely intensifying light.  
+Fundamentally, life is defined by consciousness and its contents (re: Sam Harris).
 
-And I think of Carl Jung, who points out shadow integration and how only the tree whose roots reach to hell can have branches that reach to heaven.  And in this same way, the bright our light becomes, the greater the darkness that is revealed, and it is up to us in our ability to engineer our environments and thereby ourselves, to engineer our way eternally towards salvation. 
+Whether imagined as an oval or a rectangle, experience arrives to us as **bounded qualia**—finite slices of an otherwise infinite and continuous reality. This maps naturally to the notion of a *frame*, which I often think of as a **puzzle**.
 
+A puzzle is a unity that is also a plurality. It is one thing composed of many pieces. In this sense, puzzle pieces are analogous to *concepts*—words and phrases that map to patterns in the world. A frame also. consists of foreground against background: relevance against irrelevance, signal against noise.
 
-> *“Tiling the world with concepts as to navigate it.”*  
+To frame reality is to differentiate reality - to render something discrete against an otherwise continuous field. To frame reality is to impose bounds - to carve an in-group from an out-group.  A frame may be coarse or fine—high or low resolution—depending on how many conceptual “pieces” we use to render it comprehensible.
+
+> *“The mind is a sort of limiting valve.”*
+> — **Aldous Huxley**, *The Doors of Perception*
+
+Language is the activity of assembling puzzle pieces; of sequentially projecting bounds onto the world.
+
+Reality itself is fundamentally continuous, and, in its fullness, unknowable. Yet, rational agency allows us to break this continuity into pieces. Through mind and language, we discretize reality into graspable forms. In this way, discrete reality is not *given*; it is *constructed*.
+
+This act of construction has been described many ways. Alan Watts has called it *the fundamental calculus*: the translation of the infinite into the finite. It has been described by Sam Harris as *tiling the world with concepts as to navigate it*.
+
+Mind is a mirror that can hold reflections.
+Language is the sequential ordering of those reflections.
+
+Language does not liberate by accumulation, but by orientation. Economy of words; Occam's Razor.
+
+This is why so many myths converge on the same image: the thread, the string, the guide. Ariadne’s golden thread. Pinocchio’s puppet strings. The idea that constraint—properly applied—is not bondage but liberation. Language is such a constraint: a snare meant to be released.
+
+Words exist to capture meaning. Once the meaning is grasped, the words may be forgotten.
+
+> *"We are a species of amnesia"* - **Graham Hancock**
+
+To exist as a human is to exist in a world of particulars. We label these particulars, and labeling is inherently categorical. It sorts. It creates buckets. In-groups and out-groups. This is not a flaw of language but its power.
+
+From labeling arise abstractions, and abstraction is the engine of rationality.
+
+Abstractions compress information. Rather than replaying every iteration of a game, we learn its rules. Rather than memorizing infinite cases, we adopt heuristics. With relatively little information, we navigate effectively.
+
+Taken seriously, this principle implies something radical: that a single lifetime can be informed in such a way as to optimize it for meaning—existentially, not merely instrumentally. To do so would be to hand someone the Philosopher’s Stone: not omniscience, but orientation.
+
+Rational agents are forever incomplete. We are determined systems that remain undetermined (see: Mckenna). This is not a weakness but a feature. To be human is to be inexhaustible—to never be finished.
+
+Perfection would be static. Humanity is dynamic.
+
+And so our task is not to eliminate darkness but to integrate it. As depth increases, contrast sharpens. The brighter the light, the more shadow is revealed. Growth demands both. Only the tree whose roots reach deep can stretch its branches high.
+
+Language, at its best, is not something to cling to—but something to pass through.
+
+---
+
+> *“Tiling the world with concepts as to navigate it.”*
 > — **Sam Harris**
 
-> *“Performing the fundamental calculus.”*  
+> *“Performing the fundamental calculus.”*
 > — **Alan Watts**
 
-
-
-
-> *“When you speak it is quiet. When you are quiet it speaks.”*  
+> *“When you speak, it is quiet. When you are quiet, it speaks.”*
 > — **Ancient Jewish Proverb**
 
+> *“The quieter you are, the more you hear.”*
+> — **Kali Linux boot screen**
 
+> *“There is ample time in this life for the person who maps it well.”*
+> — **Seneca**
 
-> *“The quieter you are the more you hear.”*  
-> — **Kali Linux Boot Screen**
+> *“We project bounds onto the world that the world more or less admits of.”*
 
+> *"Reality is a process of Selection"*
 
+> *"That which is, is what it is, in virute of it not being everything else (that it could have been but consequentially is not)"*
 
+> *"I did not create The David, I revealed The David"*
+> — **Michaelangelo**
 
-> *“There is ample time in this life for the person who maps it well.”*  
-> — **Seneca**, *Reflections*
-
-> *"We project bounds onto the world that the world more or less admits of."*
